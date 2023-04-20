@@ -35,8 +35,9 @@ Ton travail va nous permettre de déterminer si ce jeu de données peut informer
 
 
 ### Compétences évaluées
-Mettre en place un environnement Python
-Effectuer une représentation graphique à l'aide d'une librairie Python adaptée
-Manipuler des données avec des librairies Python spécialisées
-Maîtriser les opérations fondamentales du langage Python pour la Data Science
-Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
+
+Mettre en place un environnement Python 
+Effectuer une représentation graphique à l'aide d'une librairie Python adaptée 
+Manipuler des données avec des librairies Python spécialisées 
+Maîtriser les opérations fondamentales du langage Python pour la Data Science 
+Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration 
